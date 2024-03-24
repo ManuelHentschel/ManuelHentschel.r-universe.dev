@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "package": "vscDebugger",
+        "url": "https://github.com/ManuelHentschel/vscDebugger"
+    }
+]
