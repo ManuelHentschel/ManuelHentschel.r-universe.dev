@@ -1,6 +1,7 @@
 [
     {
         "package": "vscDebugger",
-        "url": "https://github.com/ManuelHentschel/vscDebugger"
+        "url": "https://github.com/ManuelHentschel/vscDebugger",
+        "branch" : "*release"
     }
 ]
